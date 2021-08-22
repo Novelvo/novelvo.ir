@@ -1,7 +1,7 @@
 ---
 name: New idea
 about: Suggest an idea for Novelvo.
-title: My idea is - IDEA -
+title: Name your idea here
 labels: New request
 assignees: ''
 
