@@ -7,10 +7,6 @@ assignees: ''
 
 ---
 
-**Just fill the blanks**
-
-Idea name : "-"
-Idea description : "-"
-Idea type : "-"
-
-*Types of ideas such as places, people, movies, and so on.*
+idea name : " "
+Idea description : " "
+Idea type : " "
