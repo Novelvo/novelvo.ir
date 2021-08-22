@@ -9,8 +9,8 @@ assignees: ''
 
 **Just fill the blanks**
 
-Idea name : - enter idea name -
-Idea description : - enter idea description -
-Idea type : - enter idea type -
+Idea name : "-"
+Idea description : "-"
+Idea type : "-"
 
 *Types of ideas such as places, people, movies, and so on.*
